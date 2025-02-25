@@ -22,8 +22,8 @@ author: Lana Sisson
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Data Science Project: "https://beautifuljekyll.com"
+    - Impact Project: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
 ################
