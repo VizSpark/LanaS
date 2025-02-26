@@ -21,7 +21,7 @@ author: Lana Sisson
 
 navbar-links:
   About Me: "aboutme"
-  Work Experience: 
+  Work Experience: "workexp"
   Projects:
     - Project 1: "https://beautifuljekyll.com"
     - Project 2: "https://www.markdowntutorial.com/"
