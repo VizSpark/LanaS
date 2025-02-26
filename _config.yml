@@ -52,21 +52,21 @@ title-img: /path/to/image
 social-network-links:
   email: "lana.sisson@outlok.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+ # facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  #twitter: daattali
+  #patreon: DeanAttali
+ # youtube: "@daattali"
+ # whatsapp: 07500777860
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +447500777860
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
