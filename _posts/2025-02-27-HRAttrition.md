@@ -3,7 +3,7 @@ layout: post
 title: Data Science Project - PLACEHOLDER
 subtitle: HR Attrition and Classification
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Attrition1.png
+thumbnail-img: /assets/img/Attrition2.png
 share-img: /assets/img/path.jpg
 author: Lana Sisson
 ---
