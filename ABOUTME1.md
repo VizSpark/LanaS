@@ -1,11 +1,9 @@
 ---
 layout: post
-title: About me
-subtitle: My Journey So far.......
+title: My Journey So far......
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: 
 author: Lana Sisson
 ---
 
