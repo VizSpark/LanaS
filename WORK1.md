@@ -11,7 +11,7 @@ author: Lana Sisson
 
 ## Vodafone Ltd ##
 
-**Data Visualisation Manager – Data and Analytics | April 2023 – Present.** 
+### Data Visualisation Manager – Data and Analytics | April 2023 – Present. ###
 
 In my current role - I lead the data visualization efforts, transforming complex data into actionable insights. My expertise includes:
 
