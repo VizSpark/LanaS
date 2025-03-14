@@ -47,9 +47,9 @@ My key responsibilities included:
 * Implementing process improvements for scheduling and reporting automation.
 * Delivering a wide range of training content confidently.
 
-### Store Manager | October 2008 – January 2012 As a Store Manager. ### 
+### Store Manager | October 2008 – January 2012 ###
 
-I managed daily operations and additional responsibilities as a trainer. I played a key role in regional development through the Company NVQ Programme, fostering a coaching and development culture.
+As a Store Manager I managed daily operations and additional responsibilities as a trainer. I played a key role in regional development through the Company NVQ Programme, fostering a coaching and development culture.
 
 ### Assistant Store Manager | April 2004 – October 2008. ###
 
@@ -57,11 +57,11 @@ I trained new starters at Cambridge Grand Arcade, ensuring competency before ret
 
 ### Senior Adviser | April 2002 – April 2004. ###
 
-**Education and Certifications**
-Level 4 Certificate in Data Analysis
-Level 3 BTEC Introducing Management
-Advanced Apprenticeship in Management
-Level 3 NVQ in Management
-Apprenticeship in Sales Level 3
-Level 3 BTEC in Sales
-Level 3 NVQ in Sales
+## Education and Certifications ##
+* Level 4 Certificate in Data Analysis
+* Level 3 BTEC Introducing Management
+* Advanced Apprenticeship in Management
+* Level 3 NVQ in Management
+* Apprenticeship in Sales Level 3
+* Level 3 BTEC in Sales
+* Level 3 NVQ in Sales
