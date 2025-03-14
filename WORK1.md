@@ -7,10 +7,56 @@ share-img: /assets/img/path.jpg
 author: Lana Sisson
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Professional Experience
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+**Vodafone Ltd**
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+**Data Visualisation Manager – Data and Analytics | April 2023 – Present** 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+In my current role - I lead the data visualization efforts, transforming complex data into actionable insights. My expertise includes:
+
+* SQL and Python: Proficient in data manipulation and cleaning.
+* Advanced Analytics: Skilled in time series, regression, clustering, classification, and text analysis.
+* Tools and Platforms: Experienced with MicroStrategy and Azure DEV OPS.
+* Agile Methodologies: Embracing Agile Scrum and Agile ways of working to enhance team productivity and project outcomes.
+
+**Visualization Analyst – Data and Analytics | May 2021 – March 2023**
+As a Visualization Analyst, I developed and maintained data visualizations that supported critical business decisions. My key contributions included:
+
+* Utilizing SQL and Python for efficient data manipulation and cleaning.
+* Conducting various types of analytics, including time series, regression, clustering, classification, and text analysis.
+* Leveraging MicroStrategy and Azure DEV OPS to deliver high-quality visualizations.
+* Adopting Agile Scrum and Agile methodologies to streamline workflows.
+
+**Learning and Development Coordinator | April 2016 – April 2021**
+Transitioning from retail coordination to Learning and Development, I streamlined reporting processes and managed large datasets. 
+
+My achievements included:
+* Automating processes and reporting for Learning & Development.
+* Creating interactive bespoke dashboards for senior management.
+* Scheduling training for over 4000 employees and maintaining a Learning Management site.
+
+**Consumer Channel Trainer | January 2012 – March 2016**
+In this role, I managed logistics and scheduling for retail classroom events and specialized in retail onboarding and bespoke training packages. 
+My key responsibilities included:
+
+* Conducting bespoke reporting, evaluations, and budget control.
+* Implementing process improvements for scheduling and reporting automation.
+* Delivering a wide range of training content confidently.
+
+**Store Manager | October 2008 – January 2012 As a Store Manager** 
+I managed daily operations and additional responsibilities as a trainer. I played a key role in regional development through the Company NVQ Programme, fostering a coaching and development culture.
+
+**Assistant Store Manager | April 2004 – October 2008**
+I trained new starters at Cambridge Grand Arcade, ensuring competency before returning to their home store. I also supported regional development through audit-related challenges and upskilling.
+
+**Senior Adviser | April 2002 – April 2004**
+
+**Education and Certifications**
+Level 4 Certificate in Data Analysis
+Level 3 BTEC Introducing Management
+Advanced Apprenticeship in Management
+Level 3 NVQ in Management
+Apprenticeship in Sales Level 3
+Level 3 BTEC in Sales
+Level 3 NVQ in Sales
