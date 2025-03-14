@@ -7,9 +7,9 @@ share-img: /assets/img/path.jpg
 author: Lana Sisson
 ---
 
-Professional Experience
+#Professional Experience#
 
-**Vodafone Ltd**
+Vodafone Ltd**
 
 **Data Visualisation Manager – Data and Analytics | April 2023 – Present.** 
 
