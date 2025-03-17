@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Data Science Project - PLACEHOLDER
-subtitle: HR Attrition and Classification
+subtitle: Netflix Clustering
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Attrition2.png
+thumbnail-img: /assets/img/Netflix.png
 share-img: /assets/img/path.jpg
 author: Lana Sisson
 ---
