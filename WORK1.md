@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Work Expereince
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Data.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/Data.jpeg
 author: Lana Sisson
