@@ -17,5 +17,5 @@ Looking ahead, I’m excited to continue pushing the boundaries of data visualiz
 
 Outside of work, I’m a dog mum to my Chihuahua, Poppy, a keen cook, and a lover of nature and creative outlets like publishing colouring books on Amazon. I always strive to stay balanced, inspired, and creative in everything I do.
 
-If you’re looking for someone who can transform complex data into powerful insights, while leading a team of innovative and creative professionals, let’s connect!![image](https://github.com/user-attachments/assets/67a8f56c-bfb6-487b-a920-52f8b8ca0e35)
+If you’re looking for someone who can transform complex data into powerful insights, while leading a team of innovative and creative professionals, let’s connect!!
 
