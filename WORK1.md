@@ -13,7 +13,8 @@ author: Lana Sisson
 
 ### Data Visualisation Manager – Data and Analytics | April 2023 – Present. ###
 
-In my current role - I lead the data visualization efforts, transforming complex data into actionable insights. My expertise includes:
+As the Data Visualization Manager at Vodafone, I lead a dynamic team of 23 skilled visualization developers proficient in MSTR, Qlik, and Power BI, Change is embraced as an opportunity for innovation and growth. My mission is to strategically harness the power of data visualization to drive informed decision-making and propel our organization into the future. I am passionate about fostering a culture of continuous learning and development, empowering each team member to explore and implement cutting-edge technologies and methodologies. By nurturing creativity and collaboration, the team will deliver exceptional data visualization solutions that not only meet the current needs but also anticipate and shape the future of our industry.
+
 
 * SQL and Python: Proficient in data manipulation and cleaning.
 * Advanced Analytics: Skilled in time series, regression, clustering, classification, and text analysis.
